@@ -1,0 +1,72 @@
+{
+  "info": {
+    "boosting": {
+      "address": 33760969,
+      "type": ">d8"
+    },
+    "coins": {
+      "address": 50347280,
+      "type": "<u2"
+    },
+    "courseType": {
+      "address": 100731516,
+      "type": "|d1"
+    },
+    "cp": {
+      "address": 50340812,
+      "type": "|u1"
+    },
+    "cp_change": {
+      "address": 50340816,
+      "type": "|u1"
+    },
+    "hit": {
+      "address": 50345328,
+      "type": "|u1"
+    },
+    "isGoingBackwards": {
+      "address": 50347069,
+      "type": ">u1"
+    },
+    "itemSlot": {
+      "address": 100666978,
+      "type": "|u1"
+    },
+    "lakituOnScreen": {
+      "address": 33729781,
+      "type": "><u4"
+    },
+    "lap": {
+      "address": 50347101,
+      "type": "><n4"
+    },
+    "place": {
+      "address": 50340788,
+      "type": "=u4"
+    },
+    "race_state": {
+      "address": 117440525,
+      "type": "|u1"
+    },
+    "speed": {
+      "address": 50347094,
+      "type": "|u2"
+    },
+    "terrainType": {
+      "address": 50346988,
+      "type": "<u2"
+    },
+    "time": {
+      "address": 50355328,
+      "type": "|u2"
+    },
+    "track": {
+      "address": 33573734,
+      "type": "|u1"
+    },
+    "turbo": {
+      "address": 33761433,
+      "type": ">n8"
+    }
+  }
+}
